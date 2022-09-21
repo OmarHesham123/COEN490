@@ -9,13 +9,14 @@ assigned nurse’s phone. The nurse can receive alerts about the patient’s sta
 verify in real time the patient health status. The nurse would also be able to verify patient
 information, allergies, and past issues (medical record). </p>
   
-  <h2>List of students working on the project:</h2>
-  <ul>
-    <li>Stefan Livadariu</li>
-    <li>Omar Mahmoud</li>
-    <li>Athanas Bakleh</li>
-    <li>Dina Yashaev</li>
-    <li>Anthony Salem</li>
-    <li>Yacin Jouiad</li>
-  </ul>
+    <h2>List of students working on the project:</h2>
+
+  | Full Names    | IDs           |  Github Usernames |
+| ------------- | ------------- | ------------- | 
+| Omar Mahmoud  |   40158127    |[@OmarHesham123](https://github.com/OmarHesham123)|
+| Stefan Livadariu  |   40031231    | [@StefanCostinL](https://github.com/StefanCostinL) |
+| Athanas Bakleh |   40093110    | [@A-BAKLEH](https://github.com/A-BAKLEH) |
+| Dina Yashaev |   27613822    | [@superdina68](https://github.com/superdina68)|
+| Anthony Salem  |   40121927   | [@DonPablo11](https://github.com/DonPablo11) |
+| Yacin Jouiad  |    40084649   | [@Evowox](https://github.com/Evowox) |
 </div>
