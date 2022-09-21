@@ -9,7 +9,7 @@ assigned nurse’s phone. The nurse can receive alerts about the patient’s sta
 verify in real time the patient health status. The nurse would also be able to verify patient
 information, allergies, and past issues (medical record). </p>
   
-  <h2>List of students working on the project :</h2>
+  <h2>List of students working on the project:</h2>
   <ul>
     <li>Stefan Livadariu</li>
     <li>Omar Mahmoud</li>
