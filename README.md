@@ -18,5 +18,5 @@ information, allergies, and past issues (medical record). </p>
 | Athanas Bakleh  | [@A-BAKLEH](https://github.com/A-BAKLEH) |
 | Dina Yashaev  | [@superdina68](https://github.com/superdina68)|
 | Anthony Salem  | [@DonPablo11](https://github.com/DonPablo11) |
-| Yacin Jouiad  | [@Evowox](https://github.com/Evowox) |
+| Abdullah Shaban | [@abdullahishaban](https://github.com/abdullahishaban) |
 </div>
